@@ -7,7 +7,7 @@
 
 > Install with [npm](https://npmjs.org)
 
-```bash
+```
 $ npm install week-seconds
 ```
 
@@ -21,6 +21,26 @@ weekSeconds()
 weekSeconds(true)
 //=> 604800000 milliseconds
 ```
+
+
+## Tests
+> As usual `npm test` **or** if you have [mocha][mocha-url] globally `mocha`
+
+```
+$ npm test
+```
+
+
+## API
+
+### weekSeconds([ms])
+
+#### ms
+
+Type: `boolean`  
+Default: false
+
+Will get seconds in week by deafault, if `true` milliseconds in week.   
 
 
 ## Authors & Contributors [![author tips][author-gittip-img]][author-gittip]
