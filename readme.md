@@ -55,6 +55,9 @@ Will get seconds in week by deafault, if `true` milliseconds in week.
 Copyright (c) 2014 [Charlike Mike Reagent][author-website], [contributors](https://github.com/tunnckoCore/week-seconds/graphs/contributors).  
 Released under the [`MIT`][license-url] license.
 
+
+[mocha-url]: https://github.com/visionmedia/mocha
+
 [npmjs-url]: http://npm.im/week-seconds
 [npmjs-img]: http://img.shields.io/npm/v/week-seconds.svg
 [npmjs-install]: https://nodei.co/npm/week-seconds.png?mini=true
