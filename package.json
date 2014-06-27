@@ -1,0 +1,43 @@
+{
+  "name": "week-seconds",
+  "version": "0.0.0",
+  "description": "Get the number of seconds/milliseconds in a week.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": "tunnckoCore/week-seconds",
+  "keywords": [
+    "week",
+    "seconds",
+    "milliseconds",
+    "date",
+    "number",
+    "count"
+  ],
+  "dependencies": {
+    "day-seconds": "*"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "licenses": [{
+    "type": "MIT",
+    "url": "https://github.com/tunnckoCore/week-seconds/blob/master/license.md"
+  }],
+  "author": {
+    "name": "Charlike Mike Reagent",
+    "email": "mameto_100@mail.bg",
+    "url": "http://www.whistle-bg.tk"
+  },
+  "maintainers": [{
+    "name": "Charlike Mike Reagent",
+    "email": "mameto_100@mail.bg",
+    "url": "http://www.whistle-bg.tk"
+  }],
+  "contributors": [{
+    "name": "Charlike Mike Reagent",
+    "email": "mameto_100@mail.bg",
+    "url": "http://www.whistle-bg.tk"
+  }]
+}
