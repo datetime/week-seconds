@@ -3,8 +3,8 @@
 > Get the number of seconds/milliseconds in a week.
 
 ## Install
-```bash
-npm install week-seconds
+```
+npm i --save week-seconds
 npm test
 ```
 
@@ -85,6 +85,6 @@ Released under the [`MIT`][license-url] license.
 
 ***
 
-_Powered and automated by [kdf](https://github.com/tunnckoCore), January 26, 2015_
+_Powered and automated by [kdf](https://github.com/tunnckoCore), March 02, 2015_
 
 [day-seconds]: https://github.com/datetime/day-seconds
